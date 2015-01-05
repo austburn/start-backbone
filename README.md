@@ -1,4 +1,4 @@
-# JS Starter
+# Backbone Starter
 This is a template for a Backbone application that is powered by [Gulp](http://gulpjs.com/) for automation.
 ## Requirements
 * git
