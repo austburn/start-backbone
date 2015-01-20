@@ -1,11 +1,7 @@
 {
-  "name": "js_start",
+  "name": "start-backbone",
   "version": "1.0.0",
   "description": "A starter for any JS project that needs gulp to automate the build process.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "gulp",
     "watchify",
